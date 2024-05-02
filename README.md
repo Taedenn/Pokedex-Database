@@ -1,4 +1,5 @@
-The Pokédex Database is an text-based application that emulates the Pokédex from the titular game and television series. This database, however, stores the first 4 generations of pokémon—or 494 unique Pokémon—including their name, type, status, base stats and id number. The user may query the database using a Java-powered UI system, and may ask:
+# The Pokédex Database 
+A text-based application that emulates the Pokédex from the titular game and television series. This database, however, stores the first 4 generations of pokémon—or 494 unique Pokémon—including their name, type, status, base stats and id number. The user may query the database using a Java-powered UI system, and may ask:
 - Which Pokémon have been caught/seen?
 - Which Pokémon start with the letter ____?
 - Which Pokémon include ____ in their name?
